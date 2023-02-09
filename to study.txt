@@ -26,6 +26,10 @@ https://www.curseforge.com/minecraft/mc-mods/additional-structures-fabric
 https://www.curseforge.com/minecraft/mc-mods/alternate-current
 
 https://www.curseforge.com/minecraft/mc-mods/another-furniture
+https://www.curseforge.com/minecraft/mc-mods/friends-and-foes
+https://www.curseforge.com/minecraft/mc-mods/createaddition
+https://www.curseforge.com/minecraft/mc-mods/prefab-fabric
+https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest
 
 
 //
