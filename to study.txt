@@ -8,6 +8,14 @@ https://www.curseforge.com/minecraft/modpacks/darkrpg
 
 https://www.curseforge.com/minecraft/modpacks/tnp-limitless-refabricated
 
+(study)
+https://www.youtube.com/watch?v=Ypye_7Tt_cI
+
+https://www.modpackindex.com/modpack/4123/rlcraft
+
+https://www.modpackindex.com/modpack/21541/all-the-mods-6-atm6
+
+https://www.modpackindex.com/modpack/5490/mc-eternal
 
 //
 //	Both Side
@@ -30,6 +38,15 @@ https://www.curseforge.com/minecraft/mc-mods/friends-and-foes
 https://www.curseforge.com/minecraft/mc-mods/createaddition
 https://www.curseforge.com/minecraft/mc-mods/prefab-fabric
 https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest
+
+https://www.curseforge.com/minecraft/mc-mods/backslot
+https://www.curseforge.com/minecraft/mc-mods/spice-of-fabric
+https://www.curseforge.com/minecraft/mc-mods/drink-beer-fabric
+https://www.curseforge.com/minecraft/mc-mods/sihywtcamd
+https://www.curseforge.com/minecraft/mc-mods/adaptive-tooltips
+	(tirar tooltipfix)
+
+https://www.curseforge.com/minecraft/mc-mods/drink-beer-fabric
 
 
 //
