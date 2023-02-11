@@ -21,32 +21,22 @@ https://www.modpackindex.com/modpack/5490/mc-eternal
 //	Both Side
 //
 
-https://www.curseforge.com/minecraft/mc-mods/clumps
-https://www.curseforge.com/minecraft/mc-mods/farmers-respite-fabric
-https://www.curseforge.com/minecraft/mc-mods/expanded-delight
-https://www.curseforge.com/minecraft/mc-mods/goblin-traders-fabric
-https://www.curseforge.com/minecraft/mc-mods/oxidized
-
 https://www.curseforge.com/minecraft/mc-mods/paradise-lost
 https://www.curseforge.com/minecraft/mc-mods/ping-wheel
 https://www.curseforge.com/minecraft/mc-mods/universal-ores-fabric
-https://www.curseforge.com/minecraft/mc-mods/additional-structures-fabric
 https://www.curseforge.com/minecraft/mc-mods/alternate-current
 
-https://www.curseforge.com/minecraft/mc-mods/another-furniture
 https://www.curseforge.com/minecraft/mc-mods/friends-and-foes
-https://www.curseforge.com/minecraft/mc-mods/createaddition
 https://www.curseforge.com/minecraft/mc-mods/prefab-fabric
 https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest
+https://www.curseforge.com/minecraft/mc-mods/goblin-traders-fabric
+https://www.curseforge.com/minecraft/mc-mods/clumps
 
-https://www.curseforge.com/minecraft/mc-mods/backslot
-https://www.curseforge.com/minecraft/mc-mods/spice-of-fabric
-https://www.curseforge.com/minecraft/mc-mods/drink-beer-fabric
+https://www.curseforge.com/minecraft/mc-mods/createaddition
+
 https://www.curseforge.com/minecraft/mc-mods/sihywtcamd
-https://www.curseforge.com/minecraft/mc-mods/adaptive-tooltips
+https://www.curseforge.com/minecraft/mc-mods/another-furniture
 	(tirar tooltipfix)
-
-https://www.curseforge.com/minecraft/mc-mods/drink-beer-fabric
 
 
 //
@@ -58,5 +48,7 @@ https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric
 https://www.curseforge.com/minecraft/mc-mods/effective
 https://www.curseforge.com/minecraft/mc-mods/illuminations
 https://www.curseforge.com/minecraft/mc-mods/simple-discord-rich-presence
+
+https://www.curseforge.com/minecraft/mc-mods/adaptive-tooltips
 
 https://www.curseforge.com/minecraft/mc-mods/yosbr
