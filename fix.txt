@@ -3,7 +3,3 @@ Check elevator
 Disable infinity Tool
 
 Crash on start alt tab
-
-remove lil wings more frogs
-
-remove nyfsquivers

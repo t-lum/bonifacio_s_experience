@@ -23,6 +23,7 @@ https://www.modpackindex.com/modpack/5490/mc-eternal
 
 https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest
 https://www.curseforge.com/minecraft/mc-mods/clumps
+https://www.curseforge.com/minecraft/mc-mods/trample-stopper
 
 //
 //	Client Side
