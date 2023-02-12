@@ -5,7 +5,7 @@
 	// If set to EXTENDED, there'll also be information on how many other foods the player needs to eat to restore the nutrition value.
 	// With NONE this tooltip is hidden.
 	// default: NONE
-	show-last-eaten-tips: NONE
+	show-last-eaten-tips: EXTENDED
 	// Edit the expressions that are used for calculating the player stats after respawning.
 	// Expressions are mathematical terms with the following variables:
 	// 	hunger is the amount of hunger the player had when dying
@@ -55,12 +55,12 @@
 	carrot: {
 		// Enables the carrot style module.
 		// default: false
-		enable: false
+		enable: true
 		// Specifies an offset in health points (half hearts) from default health.
 		// Default health in vanilla is 20 but that may change through mods like Origins.
 		// The resulting value will be floored before use.
 		// default: 0.6 * baseHealth + max(2 * floor(log2(uniqueFoodsEaten)), 0)
-		health-formula: 0.6 * baseHealth + max(2 * floor(log2(uniqueFoodsEaten)), 0)
+		health-formula: 0.75 * baseHealth + max(floor(log2(uniqueFoodsEaten)+uniqueFoodsEaten/5), 0)
 		// Specifies the maximum number of health points (half hearts) a player can get to through carrot mode.
 		// When 0, carrot mode is effectively disabled. (Why would you do this? :P)
 		// When -1, you can gain a basically infinite amount of hearts.
@@ -77,12 +77,12 @@
 	items: {
 		// Enable a low end food container that can be crafted from paper and holds up to 5 stacks of food.
 		// default: false
-		enable-paper-bag: false
+		enable-paper-bag: true
 		// Enable a food container that can be crafted from planks and gold and holds up to 9 stacks of food.
 		// default: false
-		enable-lunch-box: false
+		enable-lunch-box: true
 		// Enable a food container that can be crafted from bamboo and holds up to 9 stacks of food.
 		// default: false
-		enable-picnic-basket: false
+		enable-picnic-basket: true
 	}
 }
