@@ -5,5 +5,3 @@ No chat Report
 drippy loading screen override
 
 RightClickHarvest config
-
-Nether crash

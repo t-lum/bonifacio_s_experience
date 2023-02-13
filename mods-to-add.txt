@@ -16,6 +16,7 @@ https://www.curseforge.com/minecraft/mc-mods/adaptive-tooltips
 	(tirar tooltipfix)
 
 https://www.curseforge.com/minecraft/mc-mods/emi
+https://beta.curseforge.com/minecraft/mc-mods/health-overlay-fabric
 
 
 
@@ -33,39 +34,14 @@ https://beta.curseforge.com/minecraft/mc-mods/observable
 
 https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest
 https://www.curseforge.com/minecraft/mc-mods/clumps
-https://www.curseforge.com/minecraft/mc-mods/trample-stopper
+https://beta.curseforge.com/minecraft/mc-mods/fix-experience-bug
+https://beta.curseforge.com/minecraft/mc-mods/not-enough-crashes
 
 https://www.curseforge.com/minecraft/mc-mods/environmentz
 https://www.curseforge.com/minecraft/mc-mods/dehydration
-https://www.curseforge.com/minecraft/mc-mods/fabricae-ex-nihilo
-https://www.curseforge.com/minecraft/mc-mods/trample-stopper
-https://www.curseforge.com/minecraft/mc-mods/terrarian-slimes
-
 https://www.curseforge.com/minecraft/mc-mods/culinary-construct
-https://www.curseforge.com/minecraft/mc-mods/additional-additions
-https://www.curseforge.com/minecraft/mc-mods/healing-campfire
-https://www.curseforge.com/minecraft/mc-mods/veggieway-fabric
-https://www.curseforge.com/minecraft/mc-mods/exlines-sushi-mod
-
-https://www.curseforge.com/minecraft/mc-mods/witch-mobility
-https://www.curseforge.com/minecraft/mc-mods/portal-cubed
-https://www.curseforge.com/minecraft/mc-mods/epic-paladins
-https://www.curseforge.com/minecraft/mc-mods/mystical-index
-https://www.curseforge.com/minecraft/mc-mods/geode-plus
-
-https://beta.curseforge.com/minecraft/mc-mods/amethyst-imbuement
-https://beta.curseforge.com/minecraft/mc-mods/grind-enchantments
-https://beta.curseforge.com/minecraft/mc-mods/gate-of-babylon
-https://beta.curseforge.com/minecraft/mc-mods/environmental-materials
 https://beta.curseforge.com/minecraft/mc-mods/loot-integrations
+https://www.curseforge.com/minecraft/mc-mods/portal-cubed
 
-https://beta.curseforge.com/minecraft/mc-mods/fix-experience-bug
-https://beta.curseforge.com/minecraft/mc-mods/health-overlay-fabric
-https://beta.curseforge.com/minecraft/mc-mods/dungeon-difficulty
-https://beta.curseforge.com/minecraft/mc-mods/shroom-dealers
-https://beta.curseforge.com/minecraft/mc-mods/simple-grinder
-
-https://beta.curseforge.com/minecraft/mc-mods/fabric-rings-of-ascension
-https://beta.curseforge.com/minecraft/mc-mods/savage-ender-dragon
-https://beta.curseforge.com/minecraft/mc-mods/not-enough-crashes
-https://beta.curseforge.com/minecraft/mc-mods/litematica
+https://www.curseforge.com/minecraft/mc-mods/healing-campfire
+https://www.curseforge.com/minecraft/mc-mods/witch-mobility
