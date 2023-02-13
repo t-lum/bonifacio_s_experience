@@ -36,7 +36,7 @@
 		// Expression that determines the food level to restore when eating a food item
 		// default: hungerValue * power(0.7, timesEaten)
 		// 	Must be a valid expression
-		hunger: hungerValue * power(0.966, timesEaten)
+		hunger: hungerValue * power(0.93, timesEaten)
 		// Expression that determines the saturation modifier for a food item
 		// default: saturationValue
 		// 	Must be a valid expression
@@ -48,7 +48,7 @@
 		// Sets the amount of last eaten foods to use for the calculations in this category
 		// default: 20
 		// 	Must be greater or equal to 0
-		history-length: 20
+		history-length: 15
 	}
 	// The good ol' carrot style.
 	// Carrot style means, that you start with a certain amount of hearts and gain more by eating unique foods.
