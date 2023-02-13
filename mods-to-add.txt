@@ -3,14 +3,3 @@
 //
 
 https://beta.curseforge.com/minecraft/mc-mods/observable
-
-
-
-//
-//	Both Side
-//
-
-https://www.curseforge.com/minecraft/mc-mods/clumps
-https://beta.curseforge.com/minecraft/mc-mods/fix-experience-bug
-https://beta.curseforge.com/minecraft/mc-mods/not-enough-crashes
-https://beta.curseforge.com/minecraft/mc-mods/loot-integrations
