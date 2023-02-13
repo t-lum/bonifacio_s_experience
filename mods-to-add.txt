@@ -1,26 +1,4 @@
 //
-//	Client Side
-//
-
-https://www.curseforge.com/minecraft/mc-mods/farsight-fabric
-https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric
-https://www.curseforge.com/minecraft/mc-mods/effective
-https://www.curseforge.com/minecraft/mc-mods/illuminations
-https://www.curseforge.com/minecraft/mc-mods/simple-discord-rich-presence
-
-https://beta.curseforge.com/minecraft/mc-mods/fabric-tooltip-texts-scroller
-https://beta.curseforge.com/minecraft/mc-mods/fabric-extended-armor-bars-forked
-https://www.curseforge.com/minecraft/mc-mods/ambientsounds
-https://www.curseforge.com/minecraft/mc-mods/yosbr
-https://www.curseforge.com/minecraft/mc-mods/adaptive-tooltips
-	(tirar tooltipfix)
-
-https://www.curseforge.com/minecraft/mc-mods/emi
-https://beta.curseforge.com/minecraft/mc-mods/health-overlay-fabric
-
-
-
-//
 //	Server Side
 //
 
