@@ -1,14 +1,32 @@
 //
-//	Server Side
+//	Both Side
 //
-
-https://beta.curseforge.com/minecraft/mc-mods/observable
-
-
-/////////
 
 https://www.curseforge.com/minecraft/mc-mods/weeping-angels-mod
 
 https://www.curseforge.com/minecraft/mc-mods/paradise-lost
 
 https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked
+
+https://www.curseforge.com/minecraft/mc-mods/advancements-debug
+
+https://beta.curseforge.com/minecraft/mc-mods/not-enough-crashes
+
+https://www.curseforge.com/minecraft/mc-mods/mixintrace
+
+https://www.curseforge.com/minecraft/mc-mods/hexal
+
+
+
+//
+//	Server Side
+//
+
+https://beta.curseforge.com/minecraft/mc-mods/observable
+
+
+
+//
+//	Client Side
+//
+
