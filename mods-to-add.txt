@@ -2,18 +2,11 @@
 //	Both Side
 //
 
-https://www.curseforge.com/minecraft/mc-mods/paradise-lost
+https://www.curseforge.com/minecraft/mc-mods/eden-ring
 
-https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked
+https://www.curseforge.com/minecraft/mc-mods/betternether
 
-https://www.curseforge.com/minecraft/mc-mods/advancements-debug
-
-https://beta.curseforge.com/minecraft/mc-mods/not-enough-crashes
-
-https://www.curseforge.com/minecraft/mc-mods/mixintrace
-
-https://www.curseforge.com/minecraft/mc-mods/hexal
-
+https://www.curseforge.com/minecraft/mc-mods/betterend
 
 
 //
@@ -27,4 +20,3 @@ https://beta.curseforge.com/minecraft/mc-mods/observable
 //
 //	Client Side
 //
-
