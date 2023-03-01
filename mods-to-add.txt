@@ -8,6 +8,8 @@ https://www.curseforge.com/minecraft/mc-mods/betternether
 
 https://www.curseforge.com/minecraft/mc-mods/betterend
 
+https://beta.curseforge.com/minecraft/mc-mods/endremastered-fabric
+
 
 //
 //	Server Side
