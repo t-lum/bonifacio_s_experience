@@ -1,13 +1,7 @@
 No chat Report
 
-drippy loading screen override
+Drippy loading screen override
 
 RightClickHarvest config
 
-advdebug in server and singleplayer
-
-make love not war removed
-
-Modern industrialization update announce removed
-
-enchantment table don't working
+Make love not war remove
