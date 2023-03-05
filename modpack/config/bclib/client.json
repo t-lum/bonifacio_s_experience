@@ -6,12 +6,12 @@
   "ui": {
     "showUpdateInfo [default: true]": true,
     "preferModrinthForUpdates [default: true]": true,
-    "forceBetterXPreset [default: true]": false,
+    "forceBetterXPreset [default: true]": true,
     "suppressExperimentalDialogOnLoad [default: false]": false,
     "iAmNotTheDonorType [default: false]": false
   },
   "auto_sync": {
-    "enabled [default: true]": true,
+    "enabled [default: true]": false,
     "acceptConfigs [default: true]": true,
     "acceptFiles [default: true]": true,
     "acceptMods [default: true]": true,
